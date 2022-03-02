@@ -2,3 +2,4 @@
 html{background-color: rgb(194, 228, 241);}
 .bold{font-weight: bold;}
 h2{text-decoration: underline}
+ol{background-color: rgb(203, 240, 255); width:600px; margin: 0 auto; padding: 15px 20px 15px 20px; border: 5px dashed lightblue}
