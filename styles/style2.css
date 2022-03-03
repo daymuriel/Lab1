@@ -1,5 +1,16 @@
-*{font-family:"Oswald"}
-html{background-color: rgb(194, 228, 241);}
-.bold{font-weight: bold;}
-h2{text-decoration: underline}
-ol{background-color: rgb(203, 240, 255); border: 5px dashed lightblue}
+* {
+    font-family:"Oswald"
+}
+html {
+    background-color: rgb(194, 228, 241)
+}
+.bold {
+    font-weight: bold
+}
+h2 {
+    text-decoration: underline
+}
+ol {
+    background-color: rgb(203, 240, 255); 
+    border: 5px dashed lightblue
+}

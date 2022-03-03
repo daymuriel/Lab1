@@ -1,2 +1,6 @@
-html{background-color: rgb(221, 192, 221);}
-body{background-color:rgb(255, 232, 255); border: 5px dotted violet}
+html {
+    background-color: rgb(221, 192, 221)
+}
+body {background-color:rgb(255, 232, 255);
+     border: 5px dotted violet
+    }
