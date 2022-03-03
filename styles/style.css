@@ -1,1 +1,4 @@
-*{font-family:"Oswald"}
+*{font-family:"Oswald"; text-align: center}
+img{width: 25%; height: 25%}
+html{margin: 0 auto}
+body, ol{ width:600px; margin: 0 auto; padding: 15px 20px 15px 20px;}
